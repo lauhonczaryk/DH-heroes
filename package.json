@@ -1,0 +1,25 @@
+{
+  "name": "dh-heroes",
+  "version": "1.0.0",
+  "description": "ejercitación",
+  "main": "app.js",
+  "scripts": {
+    "test": "hola"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lauhonczaryk/DH-heroes.git"
+  },
+  "keywords": [
+    "heroes"
+  ],
+  "author": "Laura Honczaryk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lauhonczaryk/DH-heroes/issues"
+  },
+  "homepage": "https://github.com/lauhonczaryk/DH-heroes#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
